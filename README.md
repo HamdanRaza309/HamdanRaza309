@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hamdan309@gmail.com**
 
-- ⚡ Fun fact **It’s not a bug, it’s a feature… until I fix it!**
+- ⚡ Fun fact: **It’s not a bug, it’s a feature… until I fix it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

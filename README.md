@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdanraza309&label=Profile%20views&color=0e75b6&style=flat" alt="hamdanraza309" /> </p>
 
-- 🔭 I’m currently working on **Tic Tac Toe - Multiplayer Game**
+- 🔭 Passionate to learn **AI**
 
 - 🌱 I’m currently polishing my **CSS Animation's skill**
 

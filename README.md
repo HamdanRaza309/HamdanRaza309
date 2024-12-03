@@ -5,7 +5,7 @@
 
 - 🔭 Passionate to learn **AI**
 
-- 🌱 I’m currently polishing my **CSS Animation's skill**
+- 🌱 I’m currently working on **Semester Project**
 
 - 👨‍💻 All of my projects are available at [https://hamdanraza-portfolio.vercel.app/](https://hamdanraza-portfolio.vercel.app/)
 

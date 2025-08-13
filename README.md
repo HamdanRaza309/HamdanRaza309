@@ -1,32 +1,116 @@
-<h1 align="center">Hi 👋, I'm Hamdan Raza</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h1 align="center">Hi There, I’m Hamdan Raza</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdanraza309&label=Profile%20views&color=0e75b6&style=flat" alt="hamdanraza309" /> </p>
-
-- 🔭 Passionate to learn **AI**
-
-- 🌱 I’m currently working on **Semester Project**
-
-- 👨‍💻 All of my projects are available at [https://hamdanraza-portfolio.vercel.app/](https://hamdanraza-portfolio.vercel.app/)
-
-- 💬 Ask me about **react, nodejs, express, socket.io, mongoDB, tailwindcss and bootstrap**
-
-- 📫 How to reach me **hamdan309@gmail.com**
-
-- ⚡ Fun fact: **It’s not a bug, it’s a feature… until I fix it!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hamdanraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdanraza" height="30" width="40" /></a>
-<a href="https://fb.com/khanarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khanarman" height="30" width="40" /></a>
-<a href="https://instagram.com/khanarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khanarman" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=F97316&width=650&lines=Transforming+Ideas+into+Code;MERN+Stack+%7C+AI+%7C+Cloud+Integration;Building+Scalable+Intelligent+Solutions" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamdanraza309&show_icons=true&locale=en" alt="hamdanraza309" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamdanraza309&" alt="hamdanraza309" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamdanraza309&show_icons=true&locale=en&layout=compact" alt="hamdanraza309" /></p>
+## About Me
 
-[![An image of @hamdanraza309's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hamdanraza309)](https://holopin.io/@hamdanraza309)
+I'm a passionate **Full Stack Developer** from Pakistan 🇵🇰, specializing in **MERN Stack, Generative AI, and Cloud Solutions**.  
+I thrive on crafting **scalable, secure, and user-focused applications** that merge innovation with practicality.
+
+**What I Do**
+
+- Architect **high-performance web applications**
+- Integrate **Generative AI & Agentic AI workflows**
+- Deploy & scale on **modern cloud platforms**
+- Continuously learn and adapt to **emerging tech trends**
+
+---
+
+## Education
+
+**Bachelor of Computer Science** – UET Peshawar  
+_Specialization:_ Software Engineering & Emerging Technologies
+
+---
+
+## Experience
+
+| Role                         | Company    | Stack & Focus Area            |
+| ---------------------------- | ---------- | ----------------------------- |
+| **Full-Stack Web Intern**    | Code Alpha | MERN Development              |
+| **Full Stack Web Developer** | Metasense  | MERN + GenAI + Supabase + AWS |
+
+---
+
+## 🛠 Technical Expertise
+
+### Languages & Frameworks
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,express,mongodb,python,java,cpp&perline=8" />
+</div>
+
+### Cloud & DevOps
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github&perline=8" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</div>
+
+### AI & Machine Learning Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-LangChain-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LlamaIndex-green?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pinecone-0A192F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Generative%20AI-ff6f61?style=for-the-badge&logo=OpenAI&logoColor=white" />
+</div>
+
+---
+
+## Key Capabilities
+
+| Domain                | Skills & Technologies                                                   |
+| --------------------- | ----------------------------------------------------------------------- |
+| Web Development       | JavaScript, React, Next.js, Node.js, Express.js, TailwindCSS, Bootstrap |
+| Database Management   | MongoDB, SQL, Supabase, Pinecone                                        |
+| Cloud Services        | AWS, Vercel, Cloud Integration                                          |
+| AI & Machine Learning | Generative AI, Agentic AI, LangChain, LlamaIndex                        |
+| Tools & Design        | Figma, Postman, Git, GitHub, VS Code                                    |
+
+---
+
+## Featured Projects
+
+| Project              | Description                           | Key Technologies                  |
+| -------------------- | ------------------------------------- | --------------------------------- |
+| **AI Code Reviewer** | AI-powered real-time code review tool | React, Gemini AI, TailwindCSS     |
+| **PlayHive**         | YouTube-style backend system          | Node.js, Express.js, MongoDB, JWT |
+| **Cozy Craze**       | E-commerce web application            | MERN Stack, Vercel, MongoDB       |
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamdanRaza309&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanRaza309&layout=compact&theme=radical&hide_border=true" width="40%" />
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/HamdanRaza309" alt="Hamdan Raza's GitHub Contributions" />
+</div>
+
+---
+
+## Let’s Connect
+
+<div align="center">
+  <a href="mailto:hamdanraza309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hamdanraza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hamdanraza-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF9770?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HamdanRaza309&label=Profile+Views&color=ff9770" alt="Profile Views" />
+</p>

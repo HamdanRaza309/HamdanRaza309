@@ -41,7 +41,7 @@ _Specialization:_ Software Engineering & Emerging Technologies
 ### Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,express,mongodb,python,java,cpp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,express,mongodb,python,java,cpp&perline=10" />
 </div>
 
 ### Cloud & DevOps

@@ -1,6 +1,6 @@
-<h1 align="center">Hi There, I’m Hamdan Raza</h1>
+<h1>Hi There, I’m Hamdan Raza</h1>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=F97316&width=650&lines=Transforming+Ideas+into+Code;MERN+Stack+%7C+AI+%7C+Cloud+Integration;Building+Scalable+Intelligent+Solutions" />
 </p>
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a passionate **Full Stack Developer** from Pakistan 🇵🇰, specializing in **MERN Stack, Generative AI, and Cloud Solutions**.  
+I'm a passionate **Full Stack Developer** from Pakistan, specializing in **MERN Stack, Generative AI, and Cloud Solutions**.  
 I thrive on crafting **scalable, secure, and user-focused applications** that merge innovation with practicality.
 
 **What I Do**

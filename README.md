@@ -3,7 +3,7 @@
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=F97316&width=650&lines=Transforming+Ideas+into+Code;MERN+Stack+%7C+AI+%7C+Cloud+Integration;Building+Scalable+Intelligent+Solutions" />
 </p>
-
+ 
 ---
   
 ## About Me

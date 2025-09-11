@@ -7,7 +7,7 @@
 ---
   
 ## About Me
-
+ 
 I'm a passionate **Full Stack Developer** from Pakistan, specializing in **MERN Stack, Generative AI, and Cloud Solutions**.  
 I thrive on crafting **scalable, secure, and user-focused applications** that merge innovation with practicality.
 

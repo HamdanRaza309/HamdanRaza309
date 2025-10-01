@@ -47,7 +47,7 @@ _Specialization:_ Software Engineering & Emerging Technologies
 ### Cloud & DevOps
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,triform,postman&perline=8" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" />
 </div>

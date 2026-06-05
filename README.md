@@ -8,7 +8,7 @@
    
 ## About Me
  
-I'm a passionate **Full Stack Developer** from Pakistan, specializing in **MERN Stack, Generative AI, and Cloud Solutions**.  
+I'm a **Full Stack AI Engineer**, specializing in **MERN Stack, Generative AI, and Cloud Solutions**.  
 I thrive on crafting **scalable, secure, and user-focused applications** that merge innovation with practicality.
 
 **What I Do**
@@ -32,7 +32,7 @@ _Specialization:_ Software Engineering & Emerging Technologies
 | Role                         | Company    | Stack & Focus Area            |
 | ---------------------------- | ---------- | ----------------------------- |
 | **Full-Stack Web Intern**    | Code Alpha | MERN Development              |
-| **Full Stack Web Developer** | Metasense  | MERN + GenAI + Supabase + AWS |
+| **Full Stack AI Engineer** | Metasense  | MERN + GenAI + Supabase + AWS |
 
 ---
 

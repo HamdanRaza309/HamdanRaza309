@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a **Full Stack AI Engineer** from Pakistan, specializing in building scalable SaaS platforms, AI-powered applications, and RAG-based systems using Node.js, React, PostgreSQL, and LangChain.
+I'm a **Full Stack AI Engineer** from Pakistan, specializing in building scalable SaaS platforms, AI-powered applications, and RAG-based systems using Node.js, React, PostgreSQL, and LangChain. 
 
 **What I Do**
 

@@ -1,147 +1,248 @@
-<h1>Hi There, I'm Hamdan Raza</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=220&section=header&text=Hamdan%20Raza&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer&descAlignY=58"/>
+</p>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=F97316&width=650&lines=Full+Stack+AI+Engineer;MERN+Stack+%7C+GenAI+%7C+Cloud+Integration;Building+Scalable+Intelligent+Solutions" />
+<h1 align="center">Hi 👋, I'm Hamdan Raza</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Engineer;Building+AI-Powered+SaaS+Platforms;MERN+Stack+%7C+GenAI+%7C+Cloud+Integration;RAG+Systems+%7C+Node.js+%7C+PostgreSQL" />
+</p>
+
+<p align="center">
+  <a href="mailto:hamdanraza309@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hamdanraza/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://hamdanraza.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF9770?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/HamdanRaza309">
+    <img src="https://img.shields.io/github/followers/HamdanRaza309?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HamdanRaza309&style=for-the-badge&color=orange"/>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **Full Stack AI Engineer** from Pakistan, specializing in building scalable SaaS platforms, AI-powered applications, and RAG-based systems using Node.js, React, PostgreSQL, and LangChain. 
+I'm a **Full Stack AI Engineer** from Pakistan, specializing in building scalable SaaS platforms, AI-powered applications, and Retrieval-Augmented Generation (RAG) systems using **Node.js, React, PostgreSQL, LangChain, and modern cloud technologies**.
 
-**What I Do**
+### 🚀 What I Do
 
-- Architect scalable SaaS platforms and multi-tenant backend systems
-- Design and implement enterprise authentication (OAuth, SAML, Microsoft Entra ID)
-- Build RAG pipelines and AI content automation systems using LLMs and vector databases
-- Deploy production-grade services with microservices patterns and cloud infrastructure
-
----
-
-## Education
-
-**BS in Computer Science** - University of Engineering & Technology, Peshawar
-CGPA: 3.84/4.00 | 10/2022 - 07/2026
+- 🏗️ Architect scalable SaaS platforms and multi-tenant backend systems
+- 🔐 Design enterprise authentication (OAuth, SAML, Microsoft Entra ID)
+- 🤖 Build RAG pipelines using LLMs and vector databases
+- ☁️ Deploy production-ready backend services with cloud infrastructure
+- ⚡ Optimize distributed systems for performance and scalability
 
 ---
 
-## Experience
+## 🏆 GitHub Trophies
 
-| Role                             | Company    | Duration        | Stack & Focus Area                                  |
-| --------------------------------- | ---------- | ---------------- | ----------------------------------------------------- |
-| Full-Stack AI Engineer            | Metasense Technologies | 07/2024 - Present | Node.js, PostgreSQL, RAG, Multi-tenant Architecture |
-| Junior Full-Stack Engineer (Freelance) | Fiverr | 04/2024 - 06/2024 | AI-powered full stack apps, Gemini API |
-| Full-Stack Web Intern             | CodeAlpha  | 01/2024 - 03/2024 | Real-time systems, WebSockets |
-
-**Highlights at Metasense Technologies**
-- Architected bulk email and campaign systems supporting 10k+ users across multiple subscription tiers
-- Designed referral and reward systems that increased user acquisition by 25%
-- Implemented modular service-based backend architecture, improving deployment efficiency by 40%
-- Contributed to Climate Tracker Initiative (CTI), integrating Microsoft Entra ID and SAML 2.0 for secure multi-tenant access
-- Built "Inspectrum," a RAG-based AI classification system using vector databases, improving semantic search performance by 42%
-- Built AI-driven content automation systems using LLM pipelines and voice synthesis, reducing manual effort by 70%
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HamdanRaza309&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-## Technical Expertise
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**
+
+University of Engineering & Technology, Peshawar
+
+📅 **Oct 2022 – Jul 2026**
+
+🎯 **CGPA:** **3.84 / 4.00**
+
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| **Full Stack AI Engineer** | Metasense Technologies | Jul 2024 – Present |
+| **Junior Full Stack Engineer (Freelance)** | Fiverr | Apr 2024 – Jun 2024 |
+| **Full Stack Web Intern** | CodeAlpha | Jan 2024 – Mar 2024 |
+
+### ✨ Highlights
+
+- Architected bulk email systems serving **10,000+ users**
+- Increased user acquisition by **25%** through referral automation
+- Improved deployment efficiency by **40%**
+- Built enterprise authentication using **Microsoft Entra ID & SAML**
+- Developed **Inspectrum**, a RAG-powered AI platform improving semantic search by **42%**
+- Reduced manual content creation effort by **70%** using LLM automation
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages & Frameworks
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,express,mongodb,postgresql,python,java,cpp&perline=11" />
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,nestjs,express,python,java,cpp,mongodb,postgresql&perline=6"/>
+</p>
 
 ### Cloud & DevOps
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,docker,postman&perline=8" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" />
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,vscode,postman,redis&perline=8"/>
+</p>
 
-### AI & Machine Learning Tools
+### AI & Machine Learning
 
-<div align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-lightgrey?style=flat" />
-  <img src="https://img.shields.io/badge/Pinecone-0A192F?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-orange?style=flat" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white" />
-</div>
-
----
-
-## Key Capabilities
-
-| Domain                | Skills & Technologies                                                       |
-| ---------------------- | ----------------------------------------------------------------------------- |
-| Web Development        | JavaScript, TypeScript, React.js, Next.js, Node.js, Nest.js, Express.js, FastAPI, Redux, Tailwind CSS |
-| APIs                    | REST APIs, GraphQL                                                          |
-| Authentication          | JWT, OAuth 2.0, SAML 2.0, Microsoft Entra ID                                 |
-| Database Management     | PostgreSQL, MongoDB, Supabase, Redis, Pinecone, ChromaDB                     |
-| AI & Machine Learning   | RAG, LangChain, LlamaIndex, Generative AI, Voice AI, n8n                     |
-| Cloud & DevOps          | AWS, Vercel, Docker, CI/CD                                                   |
-| Tools                   | Git, GitHub, Postman, Figma                                                  |
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-lightgrey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-**Look Atlas** - AI-powered product video generation platform
-Node.js, Express.js, FastAPI, Supabase, Redis, Veo3, Gemini
-- Architected distributed task orchestration with Fastify, BullMQ, and Redis for background media generation
-- Built multi-provider generation endpoints integrating Google Gemini, OpenAI, and Google Veo
-- Implemented Stripe subscription tiers and idempotent webhook handlers
-[lookatlas.com](https://www.lookatlas.com/)
+### 🔥 Look Atlas
+**AI-powered Product Image & Video Generation Platform**
 
-**Climate Tracking Initiative (CTI)** - AI-powered ESG data platform
-Node.js, Express.js, PostgreSQL, Redis
-- Contributed to a global disclosure platform for ESG compliance
-- Integrated Microsoft Entra ID authentication for secure enterprise access
-  [cleartraced.com](https://cleartraced.com/)
+**Tech Stack**
 
-**Content Automation Engine** - Automated short-form video and image generation
-Node.js, FastAPI, OpenAI, ElevenLabs, OpenCV, Redis
-- Integrated LLM-based script generation and AI voice synthesis
-- Reduced manual content creation effort by 70%
-[content-automation.com](https://content-automation-puce.vercel.app/)
+Node.js • Express.js • FastAPI • Redis • Supabase • Gemini • Veo3
 
-**Inspectrum** - RAG-based AI classification system
-- Semantic retrieval pipeline using vector databases and transformer embeddings
-- Improved semantic search performance by 42% through embedding optimization
-  [inspectrum.com](https://inspectrum.vercel.com/)
----
+- Distributed task orchestration with BullMQ
+- Stripe subscriptions & billing
+- Multi-provider AI generation
+- Background media processing
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamdanRaza309&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanRaza309&layout=compact&theme=radical&hide_border=true" width="40%" />
-</div>
+🌐 https://www.lookatlas.com/
 
 ---
 
-## Contribution Graph
+### 🌍 Climate Tracking Initiative (CTI)
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/HamdanRaza309" alt="Hamdan Raza's GitHub Contributions" />
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+AI-powered ESG Disclosure Platform
+
+**Tech Stack**
+
+Node.js • PostgreSQL • Redis
+
+- Microsoft Entra ID Integration
+- Enterprise SAML Authentication
+- Secure Multi-Tenant Architecture
+
+🌐 https://cleartraced.com/
 
 ---
 
-## Let's Connect
+### 🎬 Content Automation Engine
 
-<div align="center">
-  <a href="mailto:hamdanraza309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hamdanraza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://hamdanraza.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF9770?style=flat&logo=todoist&logoColor=white" /></a>
-</div>
+LLM-powered video & image generation platform
+
+- AI script generation
+- ElevenLabs voice synthesis
+- Automated content pipeline
+
+🌐 https://content-automation-puce.vercel.app/
+
+---
+
+### 🧠 Inspectrum
+
+Retrieval-Augmented Generation (RAG) Platform
+
+- Vector search
+- Semantic retrieval
+- Embedding optimization
+
+🌐 https://inspectrum.vercel.app/
+
+---
+
+## 🚀 Currently Working On
+
+- 🧠 NeuroAI & Brain-Computer Interfaces
+- 🤖 Large Language Models
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ Distributed AI Systems
+- ☁️ Cloud-native Backend Architectures
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HamdanRaza309&show_icons=true&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamdanRaza309&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanRaza309&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamdanRaza309&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+<a href="mailto:hamdanraza309@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hamdanraza/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://hamdanraza.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/HamdanRaza309">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy building intelligent backend systems that combine scalable architecture with modern AI to solve real-world problems.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamdanRaza309&label=Profile+Views&color=ff9770" alt="Profile Views" />
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! 🚀</b>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=120&section=footer"/>
 </p>

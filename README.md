@@ -127,6 +127,7 @@ Node.js, FastAPI, OpenAI, ElevenLabs, OpenCV, Redis
 
 <div align="center">
   <img src="https://ghchart.rshah.org/HamdanRaza309" alt="Hamdan Raza's GitHub Contributions" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---

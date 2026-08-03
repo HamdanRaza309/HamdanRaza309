@@ -43,14 +43,6 @@ I'm a **Full Stack AI Engineer** from Pakistan, specializing in building scalabl
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamdanRaza309&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**
